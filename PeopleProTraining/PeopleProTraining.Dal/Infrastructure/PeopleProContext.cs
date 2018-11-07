@@ -15,6 +15,7 @@ namespace PeopleProTraining.Dal.Infrastructure
 
         }
         public IDbSet<Employee> Employees { get; set; }
+        //public IDbSet<Building> Buidlinds { get; set; }
 
     }
 }
